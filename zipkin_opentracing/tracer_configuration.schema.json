@@ -38,7 +38,7 @@
     "sample_rate": {
       "type": "float",
       "minimum": 0.0,
-      "maxiumum": 1.0,
+      "maximum": 1.0,
       "description": "The probability of sampling a span"
     }
   }
